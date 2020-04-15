@@ -1,7 +1,5 @@
 # OMEN-HP-Laptop-2
-
-（下载的给个Star）
-
+##下载的给个Star一个，有其他问题可以留言交流。
 
 ## 惠普暗影精灵2
 （i5+6300hd+530HD+GTX960+ALC295）黑苹果macOS10.15.3 EFI
