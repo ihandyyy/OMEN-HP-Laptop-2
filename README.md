@@ -1,9 +1,11 @@
 # OMEN-HP-Laptop-2
 ## 下载的给✰Star一个（让更多人快速找到） 有其他问题可以留言交流。
-**理论上小版本EFI基本能实用，具体不适用的小驱动可自行修复**
+**理论上小版本EFI基本能适用，具体不适配的小驱动可自行修复**
 > 下载[✰macOS High Sierra 10.13 EFI]()
-> 下载[✰macOS Mojave 10.14 EFI]()
-> 下载[✰macOS Catalina 10.15 EFI]()
+> 
+> 下载[✰macOS Mojave 10.14 EFI](https://github.com/ihandyyy/OMEN-HP-Laptop-2/tree/master/EFI%E5%90%88%E9%9B%86/10.14.6%20EFI)
+> 
+> 下载[✰macOS Catalina 10.15 EFI](https://github.com/ihandyyy/OMEN-HP-Laptop-2/tree/master/EFI%E5%90%88%E9%9B%86/10.15.4%20EFI)
 
 - 惠普暗影精灵2
 i5+6300hd+530HD+GTX960+ALC295  黑苹果macOS EFI
